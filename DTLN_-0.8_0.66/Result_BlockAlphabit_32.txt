@@ -1,0 +1,2553 @@
+timestamp = 1664433546
+x = 0.101262; y = 0.002669
+a = -0.500000; b = 0.800000; c = -0.800000; d = 0.660000; g = 3.000000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.29
+p-value of test                       :    0.38
+
+Kolmogorov-Smirnov- statistic = D-    :    0.17
+p-value of test                       :    0.69
+
+Anderson-Darling statistic = A2       :    0.50
+p-value of test                       :    0.73
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.65
+p-value of test                       :    0.74
+
+Standardized empirical correlation    :    0.26
+p-value of test                       :    0.40
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:27.98
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.25
+p-value of test                       :    0.47
+
+Kolmogorov-Smirnov- statistic = D-    :    0.20
+p-value of test                       :    0.58
+
+Anderson-Darling statistic = A2       :    0.38
+p-value of test                       :    0.86
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           : 7.19e-3
+p-value of test                       :    0.50
+
+Standardized empirical correlation    :   -0.28
+p-value of test                       :    0.61
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:24.28
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.16
+p-value of test                       :    0.72
+
+Kolmogorov-Smirnov- statistic = D-    :    0.36
+p-value of test                       :    0.23
+
+Anderson-Darling statistic = A2       :    0.54
+p-value of test                       :    0.70
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.42
+p-value of test                       :    0.34
+
+Standardized empirical correlation    :   -0.26
+p-value of test                       :    0.60
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:24.03
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.14
+p-value of test                       :    0.76
+
+Kolmogorov-Smirnov- statistic = D-    :    0.44
+p-value of test                       :    0.11
+
+Anderson-Darling statistic = A2       :    1.19
+p-value of test                       :    0.27
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    1.27
+p-value of test                       :    0.10
+
+Standardized empirical correlation    :    0.17
+p-value of test                       :    0.43
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:27.48
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  291.71
+p-value of test                       :    0.12
+
+-----------------------------------------------
+CPU time used                    :  00:00:21.73
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  545.37
+p-value of test                       :    0.58
+
+-----------------------------------------------
+CPU time used                    :  00:00:21.65
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :   -1.41
+p-value of test                       :    0.92
+
+-----------------------------------------------
+CPU time used                    :  00:00:21.62
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   60.64
+p-value of test                       :    0.02
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   39.90
+p-value of test                       :    0.47
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   16.66
+p-value of test                       :    0.99
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   29.78
+p-value of test                       :    0.42
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   28.85
+p-value of test                       :    0.09
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:34.65
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 1
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   95.57
+p-value of test                       :    0.18
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :  125.93
+p-value of test                       :  2.6e-3
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  134.56
+p-value of test                       :    0.93
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   77.15
+p-value of test                       :    0.41
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   47.15
+p-value of test                       :    0.31
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:32.19
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        DTLN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:03:55.65
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.35
+p-value of test                       :    0.24
+
+Kolmogorov-Smirnov- statistic = D-    :    0.15
+p-value of test                       :    0.75
+
+Anderson-Darling statistic = A2       :    0.46
+p-value of test                       :    0.78
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.28
+p-value of test                       :    0.61
+
+Standardized empirical correlation    :   -0.26
+p-value of test                       :    0.60
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.61
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.22
+p-value of test                       :    0.53
+
+Kolmogorov-Smirnov- statistic = D-    :    0.20
+p-value of test                       :    0.58
+
+Anderson-Darling statistic = A2       :    0.35
+p-value of test                       :    0.89
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.21
+p-value of test                       :    0.42
+
+Standardized empirical correlation    :    1.03
+p-value of test                       :    0.15
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:22.06
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.16
+p-value of test                       :    0.70
+
+Kolmogorov-Smirnov- statistic = D-    :    0.25
+p-value of test                       :    0.46
+
+Anderson-Darling statistic = A2       :    0.35
+p-value of test                       :    0.89
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   0.058
+p-value of test                       :    0.48
+
+Standardized empirical correlation    :   -1.18
+p-value of test                       :    0.88
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:21.86
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.16
+p-value of test                       :    0.72
+
+Kolmogorov-Smirnov- statistic = D-    :    0.35
+p-value of test                       :    0.24
+
+Anderson-Darling statistic = A2       :    0.52
+p-value of test                       :    0.72
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.30
+p-value of test                       :    0.38
+
+Standardized empirical correlation    :   -0.50
+p-value of test                       :    0.69
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.57
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  246.47
+p-value of test                       :    0.79
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.48
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  546.82
+p-value of test                       :    0.57
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.43
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    0.36
+p-value of test                       :    0.36
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.32
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   45.50
+p-value of test                       :    0.25
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   41.66
+p-value of test                       :    0.40
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   31.98
+p-value of test                       :    0.47
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   26.68
+p-value of test                       :    0.59
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   14.39
+p-value of test                       :    0.81
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:32.39
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 2
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   80.57
+p-value of test                       :    0.59
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   90.38
+p-value of test                       :    0.32
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  163.39
+p-value of test                       :    0.41
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   63.15
+p-value of test                       :    0.83
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   35.40
+p-value of test                       :    0.79
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:29.99
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        DTLN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:03:35.75
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.43
+p-value of test                       :    0.12
+
+Kolmogorov-Smirnov- statistic = D-    :    0.10
+p-value of test                       :    0.84
+
+Anderson-Darling statistic = A2       :    0.75
+p-value of test                       :    0.51
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -1.01
+p-value of test                       :    0.84
+
+Standardized empirical correlation    :    0.57
+p-value of test                       :    0.29
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.20
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.10
+p-value of test                       :    0.85
+
+Kolmogorov-Smirnov- statistic = D-    :    0.20
+p-value of test                       :    0.58
+
+Anderson-Darling statistic = A2       :    0.22
+p-value of test                       :    0.99
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.30
+p-value of test                       :    0.38
+
+Standardized empirical correlation    :   -0.62
+p-value of test                       :    0.73
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:21.93
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.52
+p-value of test                       :    0.04
+
+Kolmogorov-Smirnov- statistic = D-    :    0.18
+p-value of test                       :    0.65
+
+Anderson-Darling statistic = A2       :    1.76
+p-value of test                       :    0.13
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.80
+p-value of test                       :    0.79
+
+Standardized empirical correlation    :   -2.39
+p-value of test                       :    0.9916
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:22.21
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.37
+p-value of test                       :    0.20
+
+Kolmogorov-Smirnov- statistic = D-    :    0.12
+p-value of test                       :    0.81
+
+Anderson-Darling statistic = A2       :    0.62
+p-value of test                       :    0.62
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.70
+p-value of test                       :    0.76
+
+Standardized empirical correlation    : 1.12e-3
+p-value of test                       :    0.50
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:28.09
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  331.43
+p-value of test                       :  3.4e-3
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.87
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  511.26
+p-value of test                       :    0.90
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.53
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :   -2.54
+p-value of test                       :    0.9944
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.72
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   55.39
+p-value of test                       :    0.05
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   44.97
+p-value of test                       :    0.27
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   36.32
+p-value of test                       :    0.27
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   33.59
+p-value of test                       :    0.25
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   22.11
+p-value of test                       :    0.33
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:32.82
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 4
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   71.88
+p-value of test                       :    0.82
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :  111.08
+p-value of test                       :    0.03
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  142.67
+p-value of test                       :    0.83
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   77.74
+p-value of test                       :    0.39
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   32.67
+p-value of test                       :    0.87
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:30.24
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        DTLN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:03:39.63
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.36
+p-value of test                       :    0.23
+
+Kolmogorov-Smirnov- statistic = D-    :    0.19
+p-value of test                       :    0.63
+
+Anderson-Darling statistic = A2       :    0.48
+p-value of test                       :    0.76
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.61
+p-value of test                       :    0.73
+
+Standardized empirical correlation    :   -0.46
+p-value of test                       :    0.68
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.50
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.50
+p-value of test                       :    0.05
+
+Kolmogorov-Smirnov- statistic = D-    :    0.15
+p-value of test                       :    0.73
+
+Anderson-Darling statistic = A2       :    1.17
+p-value of test                       :    0.28
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -1.03
+p-value of test                       :    0.85
+
+Standardized empirical correlation    :    0.49
+p-value of test                       :    0.31
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:22.72
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.31
+p-value of test                       :    0.32
+
+Kolmogorov-Smirnov- statistic = D-    :    0.16
+p-value of test                       :    0.71
+
+Anderson-Darling statistic = A2       :    0.70
+p-value of test                       :    0.55
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.56
+p-value of test                       :    0.71
+
+Standardized empirical correlation    :   -0.42
+p-value of test                       :    0.66
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:22.41
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.21
+p-value of test                       :    0.56
+
+Kolmogorov-Smirnov- statistic = D-    :    0.19
+p-value of test                       :    0.62
+
+Anderson-Darling statistic = A2       :    0.28
+p-value of test                       :    0.95
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.10
+p-value of test                       :    0.54
+
+Standardized empirical correlation    :   0.093
+p-value of test                       :    0.46
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.98
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  266.71
+p-value of test                       :    0.46
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.23
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  476.81
+p-value of test                       :    0.9915
+
+-----------------------------------------------
+CPU time used                    :  00:00:18.88
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :   -1.34
+p-value of test                       :    0.91
+
+-----------------------------------------------
+CPU time used                    :  00:00:18.97
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   40.01
+p-value of test                       :    0.47
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   32.72
+p-value of test                       :    0.79
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   25.83
+p-value of test                       :    0.77
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   34.57
+p-value of test                       :    0.22
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   14.31
+p-value of test                       :    0.81
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:33.51
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 8
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   76.87
+p-value of test                       :    0.70
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   78.12
+p-value of test                       :    0.69
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  141.67
+p-value of test                       :    0.85
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   84.19
+p-value of test                       :    0.22
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   43.44
+p-value of test                       :    0.45
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:30.82
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        DTLN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:03:38.05
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.12
+p-value of test                       :    0.81
+
+Kolmogorov-Smirnov- statistic = D-    :    0.28
+p-value of test                       :    0.39
+
+Anderson-Darling statistic = A2       :    0.45
+p-value of test                       :    0.79
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.12
+p-value of test                       :    0.45
+
+Standardized empirical correlation    :   -0.64
+p-value of test                       :    0.74
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:26.08
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.19
+p-value of test                       :    0.61
+
+Kolmogorov-Smirnov- statistic = D-    :    0.21
+p-value of test                       :    0.56
+
+Anderson-Darling statistic = A2       :    0.35
+p-value of test                       :    0.89
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :  -0.096
+p-value of test                       :    0.54
+
+Standardized empirical correlation    :   -1.09
+p-value of test                       :    0.86
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:24.12
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.25
+p-value of test                       :    0.45
+
+Kolmogorov-Smirnov- statistic = D-    :    0.32
+p-value of test                       :    0.30
+
+Anderson-Darling statistic = A2       :    0.57
+p-value of test                       :    0.67
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   0.029
+p-value of test                       :    0.49
+
+Standardized empirical correlation    :   -0.24
+p-value of test                       :    0.59
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:24.37
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.35
+p-value of test                       :    0.23
+
+Kolmogorov-Smirnov- statistic = D-    :    0.21
+p-value of test                       :    0.56
+
+Anderson-Darling statistic = A2       :    0.75
+p-value of test                       :    0.51
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -0.60
+p-value of test                       :    0.73
+
+Standardized empirical correlation    :   -0.12
+p-value of test                       :    0.55
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:27.70
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  297.91
+p-value of test                       :    0.08
+
+-----------------------------------------------
+CPU time used                    :  00:00:20.24
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  590.66
+p-value of test                       :    0.13
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.22
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    0.59
+p-value of test                       :    0.28
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.14
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   30.16
+p-value of test                       :    0.87
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   36.14
+p-value of test                       :    0.64
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   30.16
+p-value of test                       :    0.56
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   35.38
+p-value of test                       :    0.19
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   15.48
+p-value of test                       :    0.75
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:35.42
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 16
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   70.14
+p-value of test                       :    0.86
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :   76.51
+p-value of test                       :    0.73
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  159.50
+p-value of test                       :    0.50
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   80.25
+p-value of test                       :    0.32
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   36.48
+p-value of test                       :    0.75
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:33.00
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        DTLN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:03:49.30
+
+ All tests were passed
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    2,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                  4
+       Expected number per cell =  2.1474836e+08
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  5.8207661e-10,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.43
+p-value of test                       :    0.12
+
+Kolmogorov-Smirnov- statistic = D-    :    0.14
+p-value of test                       :    0.75
+
+Anderson-Darling statistic = A2       :    0.95
+p-value of test                       :    0.38
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -1.11
+p-value of test                       :    0.87
+
+Standardized empirical correlation    :    0.63
+p-value of test                       :    0.26
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:27.15
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    4,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                 16
+       Expected number per cell =    53687090
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  4.0745363e-09,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.74
+p-value of test                       :  1.3e-3
+
+Kolmogorov-Smirnov- statistic = D-    :   0.052
+p-value of test                       :    0.94
+
+Anderson-Darling statistic = A2       :    4.04
+p-value of test                       :  9.1e-3
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   -2.20
+p-value of test                       :    0.99
+
+Standardized empirical correlation    :    2.15
+p-value of test                       :    0.02
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:26.16
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =                256
+       Expected number per cell =   3355443.1
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.3923729e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.12
+p-value of test                       :    0.81
+
+Kolmogorov-Smirnov- statistic = D-    :    0.39
+p-value of test                       :    0.17
+
+Anderson-Darling statistic = A2       :    0.64
+p-value of test                       :    0.60
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    0.67
+p-value of test                       :    0.25
+
+Standardized empirical correlation    :   -0.86
+p-value of test                       :    0.80
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:26.04
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  5,  n = 858993440,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 858993440
+       Number of cells = 2^L =              65536
+       Expected number per cell =     13107.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9072904e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.11
+p-value of test                       :    0.84
+
+Kolmogorov-Smirnov- statistic = D-    :    0.47
+p-value of test                       :    0.08
+
+Anderson-Darling statistic = A2       :    1.12
+p-value of test                       :    0.30
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :    1.06
+p-value of test                       :    0.14
+
+Standardized empirical correlation    :    0.14
+p-value of test                       :    0.44
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:29.48
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  233.35
+p-value of test                       :    0.92
+
+-----------------------------------------------
+CPU time used                    :  00:00:18.72
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  549.22
+p-value of test                       :    0.54
+
+-----------------------------------------------
+CPU time used                    :  00:00:18.82
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    1.09
+p-value of test                       :    0.14
+
+-----------------------------------------------
+CPU time used                    :  00:00:18.72
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   30.31
+p-value of test                       :    0.87
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   32.22
+p-value of test                       :    0.80
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   29.13
+p-value of test                       :    0.61
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   35.27
+p-value of test                       :    0.20
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   25.14
+p-value of test                       :    0.20
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:37.90
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+unif01_CreateBitBlockGen:   r = 0,   s = 32,   w = 32
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 13421772,  r =  0,   s = 32,   L0 =  320,   L1 =  320
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   84
+ChiSquare statistic                   :   88.85
+p-value of test                       :    0.34
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   85
+ChiSquare statistic                   :  104.23
+p-value of test                       :    0.08
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  160
+ChiSquare statistic                   :  157.99
+p-value of test                       :    0.53
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   75
+ChiSquare statistic                   :   73.46
+p-value of test                       :    0.53
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   43
+ChiSquare statistic                   :   41.69
+p-value of test                       :    0.53
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:35.31
+
+Generator state:
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        DTLN_Bits
+unif01_CreateBitBlockGen
+ Number of bits:   4294967296
+ Number of statistics:  17
+ Total CPU time:   00:03:58.32
+
+ All tests were passed
+
+
+

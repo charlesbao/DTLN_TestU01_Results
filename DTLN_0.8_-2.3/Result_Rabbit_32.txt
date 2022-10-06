@@ -1,0 +1,842 @@
+timestamp = 1664331971
+x = 0.105293; y = 0.003228
+a = -0.500000; b = 0.800000; c = 0.800000; d = -2.300000; g = 3.000000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Rabbit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N = 30,  n = 9988288,  r =  0,   s = 32,   L =   38,
+       Sparse =   TRUE
+
+       Number of bits = n = 9988288
+       Number of cells = 2^L =       274877906944
+       Expected number per cell =  1 /  27520.022
+       EColl = n^2 / (2k) =  181.4731098
+       Hashing =   TRUE
+
+       Collision test
+       CollisionOver:   density = n / k =  1 /   27520.02
+       Expected number of collisions = Mu =     181.47
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+POISSON approximation                 :
+Expected number of collisions = N*Mu  :     5444.09
+Observed number of collisions         :     5491
+p-value of test                       :    0.26
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :    8246037565171
+  j =  1                              :        299637658
+  j =  2                              :             5491
+  j =  3                              :                0
+  j =  4                              :                0
+  j =  5                              :                0
+
+-----------------------------------------------
+CPU time used                    :  00:00:52.65
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+snpair_ClosePairsBitMatch test:
+-----------------------------------------------
+   N = 25,  n = 1973790,  r =  0,  t = 2
+
+
+-----------------------------------------------
+Max of all bit distances              :   21.00
+p-value of test                       :    0.94
+
+-----------------------------------------------
+CPU time used                    :  00:00:41.57
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+snpair_ClosePairsBitMatch test:
+-----------------------------------------------
+   N = 25,  n = 986895,  r =  0,  t = 4
+
+
+-----------------------------------------------
+Max of all bit distances              :   10.00
+p-value of test                       :    0.50
+
+-----------------------------------------------
+CPU time used                    :  00:00:36.87
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+svaria_AppearanceSpacings test:
+-----------------------------------------------
+   N =  1,   Q = 134217728,   K = 134217728,   r = 0,   s = 30,   L = 15
+
+   Sequences of n = (K + Q)L =   4026531840 bits
+   Q = 134217728 initialization blocks
+   K = 134217728 blocks for the test
+   the blocks have L = 15 bits
+
+
+
+-----------------------------------------------
+Normal statistic                      :    1.01
+p-value of test                       :    0.16
+
+-----------------------------------------------
+CPU time used                    :  00:00:36.19
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+scomp_LinearComp test:
+-----------------------------------------------
+   N =  1,  n = 141056,  r =  0,    s = 32
+
+
+
+-----------------------------------------------
+Number of degrees of freedom          :   10
+Chi2 statistic for size of jumps      :    7.70
+p-value of test                       :    0.66
+
+
+-----------------------------------------------
+Normal statistic for number of jumps  :    0.52
+p-value of test                       :    0.30
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:18.71
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+scomp_LempelZiv test:
+-----------------------------------------------
+   N =  1,  n = 268435456,  r =  0,   s =   32,   k =   28
+
+
+-----------------------------------------------
+Normal statistic                      :    0.45
+p-value of test                       :    0.33
+
+-----------------------------------------------
+CPU time used                    :  00:00:12.81
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sspectral_Fourier1 test:
+-----------------------------------------------
+   N =  1,  n = 1048576,  r =  0,   s =   32,   k =   20
+
+
+-----------------------------------------------
+Normal statistic                      :    0.52
+p-value of test                       :    0.30
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.06
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sspectral_Fourier3 test:
+-----------------------------------------------
+   N = 261632,  n = 16384,  r =  0,   s =   32,   k =   14
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    : 9.47e-3
+p-value of test                       :    0.48
+
+Kolmogorov-Smirnov- statistic = D-    : 7.31e-3
+p-value of test                       :    0.64
+
+Anderson-Darling statistic = A2       :    0.24
+p-value of test                       :    0.98
+
+-----------------------------------------------
+CPU time used                    :  00:01:01.39
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_LongestHeadRun test:
+-----------------------------------------------
+   N =  1,  n = 600,  r =  0,   s = 32,   L = 7158272
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    8
+Chi-square statistic                  :   10.36
+p-value of test                       :    0.24
+
+-----------------------------------------------
+Global longest run of 1               :   30.00
+p-value of test                       :    0.63
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:57.43
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_PeriodsInStrings test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s =   31
+
+
+-----------------------------------------------
+Number of degrees of freedom          :  269
+Chi-square statistic                  :  285.14
+p-value of test                       :    0.24
+
+-----------------------------------------------
+CPU time used                    :  00:00:41.11
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingWeight test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+-----------------------------------------------
+Number of degrees of freedom          :   28
+Chi-square statistic                  :   25.00
+p-value of test                       :    0.63
+
+-----------------------------------------------
+CPU time used                    :  00:00:31.82
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    0.49
+p-value of test                       :    0.31
+
+-----------------------------------------------
+CPU time used                    :  00:00:31.18
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 64
+
+
+
+-----------------------------------------------
+Normal statistic                      :   -0.69
+p-value of test                       :    0.75
+
+-----------------------------------------------
+CPU time used                    :  00:00:31.81
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 33554432,  r =  0,   s = 32,   L = 128
+
+
+
+-----------------------------------------------
+Normal statistic                      :    1.03
+p-value of test                       :    0.15
+
+-----------------------------------------------
+CPU time used                    :  00:00:32.58
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  254.67
+p-value of test                       :    0.66
+
+-----------------------------------------------
+CPU time used                    :  00:00:31.63
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  520.27
+p-value of test                       :    0.84
+
+-----------------------------------------------
+CPU time used                    :  00:00:31.57
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 33554432,  r =  0,   s = 32,   L = 64,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          : 1013
+Chi-square statistic                  : 1052.96
+p-value of test                       :    0.19
+
+-----------------------------------------------
+CPU time used                    :  00:00:31.90
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_AutoCor test:
+-----------------------------------------------
+   N =  5,  n = 858993409,  r =  0,   s = 32,   d = 1
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.011
+p-value of test                       :    0.99
+
+Kolmogorov-Smirnov- statistic = D-    :    0.48
+p-value of test                       :    0.07
+
+Anderson-Darling statistic = A2       :    1.59
+p-value of test                       :    0.16
+
+Tests on the sum of all N observations
+Standardized normal statistic         :    1.67
+p-value of test                       :    0.05
+
+Sample variance                       :    0.91
+p-value of test                       :    0.46
+
+-----------------------------------------------
+CPU time used                    :  00:00:31.41
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_AutoCor test:
+-----------------------------------------------
+   N =  5,  n = 858993410,  r =  0,   s = 32,   d = 2
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.15
+p-value of test                       :    0.74
+
+Kolmogorov-Smirnov- statistic = D-    :    0.37
+p-value of test                       :    0.19
+
+Anderson-Darling statistic = A2       :    0.68
+p-value of test                       :    0.57
+
+Tests on the sum of all N observations
+Standardized normal statistic         :    0.61
+p-value of test                       :    0.27
+
+Sample variance                       :    0.30
+p-value of test                       :    0.88
+
+-----------------------------------------------
+CPU time used                    :  00:00:32.24
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+sstring_Run test:
+-----------------------------------------------
+   N =  1,  n = 858993459,  r =  0,   s =   32
+
+
+-----------------------------------------------
+Total number of 1 runs:  858993461
+
+Number of degrees of freedom          :   52
+Chi2 statistic for number of runs     :   47.28
+p-value of test                       :    0.66
+
+
+-----------------------------------------------
+Total number of bits:  3435959744
+
+Normal statistic for number of bits   :   -0.17
+p-value of test                       :    0.57
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:44.60
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 4194304,  r =  0,    s = 32,    L = 32,    k = 32
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    4
+Chi-square statistic                  :    7.93
+p-value of test                       :    0.09
+
+-----------------------------------------------
+CPU time used                    :  00:00:49.34
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 41943,  r =  0,    s = 32,    L = 320,    k = 320
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    3
+Chi-square statistic                  :    1.65
+p-value of test                       :    0.65
+
+-----------------------------------------------
+CPU time used                    :  00:00:50.25
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 4096,  r =  0,    s = 32,    L = 1024,    k = 1024
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    3
+Chi-square statistic                  :    4.54
+p-value of test                       :    0.21
+
+-----------------------------------------------
+CPU time used                    :  00:01:06.52
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 33554432,  r =  0,   s = 32,   L0 =  128,   L1 =  128
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   56
+ChiSquare statistic                   :   57.30
+p-value of test                       :    0.43
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   56
+ChiSquare statistic                   :   50.09
+p-value of test                       :    0.70
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   64
+ChiSquare statistic                   :   77.49
+p-value of test                       :    0.12
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   45
+ChiSquare statistic                   :   64.07
+p-value of test                       :    0.03
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   28
+ChiSquare statistic                   :   46.39
+p-value of test                       :    0.02
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:55.01
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 4194304,  r =  0,   s = 32,   L0 = 1024,   L1 = 1024
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :  140
+ChiSquare statistic                   :  112.17
+p-value of test                       :    0.96
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :  141
+ChiSquare statistic                   :  146.62
+p-value of test                       :    0.36
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  512
+ChiSquare statistic                   :  538.00
+p-value of test                       :    0.21
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :  133
+ChiSquare statistic                   :  123.71
+p-value of test                       :    0.71
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   72
+ChiSquare statistic                   :   81.17
+p-value of test                       :    0.22
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:52.12
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = HandeMacBook-Air.local, Darwin
+
+DTLN_Bits
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 428810,  r =  0,   s = 32,   L0 = 10016,   L1 = 10016
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :  360
+ChiSquare statistic                   :  345.65
+p-value of test                       :    0.70
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :  361
+ChiSquare statistic                   :  363.10
+p-value of test                       :    0.46
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          : 5008
+ChiSquare statistic                   : 4899.93
+p-value of test                       :    0.86
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :  356
+ChiSquare statistic                   :  324.19
+p-value of test                       :    0.89
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :  190
+ChiSquare statistic                   :  184.41
+p-value of test                       :    0.60
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:47.74
+
+Generator state:
+
+
+
+
+
+========= Summary results of Rabbit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        DTLN_Bits
+ Number of bits:   4294967296
+ Number of statistics:  40
+ Total CPU time:   00:16:50.92
+
+ All tests were passed
+
+
+

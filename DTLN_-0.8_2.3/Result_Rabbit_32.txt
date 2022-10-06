@@ -1,0 +1,842 @@
+timestamp = 1664817511
+x = 0.102347; y = 0.002660
+a = -0.500000; b = 0.800000; c = -0.800000; d = 2.300000; g = 3.000000
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Rabbit:   nb = 4294967296
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N = 30,  n = 9988288,  r =  0,   s = 32,   L =   38,
+       Sparse =   TRUE
+
+       Number of bits = n = 9988288
+       Number of cells = 2^L =       274877906944
+       Expected number per cell =  1 /  27520.022
+       EColl = n^2 / (2k) =  181.4731098
+       Hashing =   TRUE
+
+       Collision test
+       CollisionOver:   density = n / k =  1 /   27520.02
+       Expected number of collisions = Mu =     181.47
+
+
+-----------------------------------------------
+Results of CollisionOver test:
+
+POISSON approximation                 :
+Expected number of collisions = N*Mu  :     5444.09
+Observed number of collisions         :     5532
+p-value of test                       :    0.12
+
+-----------------------------
+Total number of cells containing j balls
+
+  j =  0                              :    8246037565212
+  j =  1                              :        299637576
+  j =  2                              :             5532
+  j =  3                              :                0
+  j =  4                              :                0
+  j =  5                              :                0
+
+-----------------------------------------------
+CPU time used                    :  00:00:39.00
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+snpair_ClosePairsBitMatch test:
+-----------------------------------------------
+   N = 25,  n = 1973790,  r =  0,  t = 2
+
+
+-----------------------------------------------
+Max of all bit distances              :   21.00
+p-value of test                       :    0.94
+
+-----------------------------------------------
+CPU time used                    :  00:00:29.09
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+snpair_ClosePairsBitMatch test:
+-----------------------------------------------
+   N = 25,  n = 986895,  r =  0,  t = 4
+
+
+-----------------------------------------------
+Max of all bit distances              :   11.00
+p-value of test                       :    0.04
+
+-----------------------------------------------
+CPU time used                    :  00:00:28.20
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+svaria_AppearanceSpacings test:
+-----------------------------------------------
+   N =  1,   Q = 134217728,   K = 134217728,   r = 0,   s = 30,   L = 15
+
+   Sequences of n = (K + Q)L =   4026531840 bits
+   Q = 134217728 initialization blocks
+   K = 134217728 blocks for the test
+   the blocks have L = 15 bits
+
+
+
+-----------------------------------------------
+Normal statistic                      :   0.036
+p-value of test                       :    0.49
+
+-----------------------------------------------
+CPU time used                    :  00:00:26.31
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+scomp_LinearComp test:
+-----------------------------------------------
+   N =  1,  n = 141056,  r =  0,    s = 32
+
+
+
+-----------------------------------------------
+Number of degrees of freedom          :   10
+Chi2 statistic for size of jumps      :    2.28
+p-value of test                       :    0.9937
+
+
+-----------------------------------------------
+Normal statistic for number of jumps  :   -0.30
+p-value of test                       :    0.62
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:15.61
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+scomp_LempelZiv test:
+-----------------------------------------------
+   N =  1,  n = 268435456,  r =  0,   s =   32,   k =   28
+
+
+-----------------------------------------------
+Normal statistic                      :    0.85
+p-value of test                       :    0.20
+
+-----------------------------------------------
+CPU time used                    :  00:00:12.34
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sspectral_Fourier1 test:
+-----------------------------------------------
+   N =  1,  n = 1048576,  r =  0,   s =   32,   k =   20
+
+
+-----------------------------------------------
+Normal statistic                      :   -0.62
+p-value of test                       :    0.73
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.03
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sspectral_Fourier3 test:
+-----------------------------------------------
+   N = 261632,  n = 16384,  r =  0,   s =   32,   k =   14
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.015
+p-value of test                       :    0.14
+
+Kolmogorov-Smirnov- statistic = D-    : 2.86e-3
+p-value of test                       :    0.93
+
+Anderson-Darling statistic = A2       :    0.92
+p-value of test                       :    0.40
+
+-----------------------------------------------
+CPU time used                    :  00:00:46.49
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_LongestHeadRun test:
+-----------------------------------------------
+   N =  1,  n = 600,  r =  0,   s = 32,   L = 7158272
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    8
+Chi-square statistic                  :    2.96
+p-value of test                       :    0.94
+
+-----------------------------------------------
+Global longest run of 1               :   31.00
+p-value of test                       :    0.50
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:49.25
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_PeriodsInStrings test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s =   31
+
+
+-----------------------------------------------
+Number of degrees of freedom          :  269
+Chi-square statistic                  :  260.26
+p-value of test                       :    0.64
+
+-----------------------------------------------
+CPU time used                    :  00:00:33.33
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingWeight test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+-----------------------------------------------
+Number of degrees of freedom          :   28
+Chi-square statistic                  :   25.24
+p-value of test                       :    0.61
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.38
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 32
+
+
+
+-----------------------------------------------
+Normal statistic                      :    0.16
+p-value of test                       :    0.44
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.52
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 64
+
+
+
+-----------------------------------------------
+Normal statistic                      : 2.98e-3
+p-value of test                       :    0.50
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.93
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingCorr test:
+-----------------------------------------------
+   N =  1,  n = 33554432,  r =  0,   s = 32,   L = 128
+
+
+
+-----------------------------------------------
+Normal statistic                      :    0.92
+p-value of test                       :    0.18
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.75
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 134217728,  r =  0,   s = 32,   L = 16,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  265
+Chi-square statistic                  :  275.66
+p-value of test                       :    0.31
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.58
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 67108864,  r =  0,   s = 32,   L = 32,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          :  553
+Chi-square statistic                  :  588.43
+p-value of test                       :    0.14
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.85
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_HammingIndep test:
+-----------------------------------------------
+   N =  1,  n = 33554432,  r =  0,   s = 32,   L = 64,   d = 0
+
+
+
+Counters with expected numbers >= 10
+-----------------------------------------------
+Number of degrees of freedom          : 1013
+Chi-square statistic                  :  980.01
+p-value of test                       :    0.77
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.99
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_AutoCor test:
+-----------------------------------------------
+   N =  5,  n = 858993409,  r =  0,   s = 32,   d = 1
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.098
+p-value of test                       :    0.86
+
+Kolmogorov-Smirnov- statistic = D-    :    0.30
+p-value of test                       :    0.35
+
+Anderson-Darling statistic = A2       :    0.55
+p-value of test                       :    0.69
+
+Tests on the sum of all N observations
+Standardized normal statistic         :    0.73
+p-value of test                       :    0.23
+
+Sample variance                       :    1.08
+p-value of test                       :    0.36
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.52
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_AutoCor test:
+-----------------------------------------------
+   N =  5,  n = 858993410,  r =  0,   s = 32,   d = 2
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.14
+p-value of test                       :    0.77
+
+Kolmogorov-Smirnov- statistic = D-    :    0.59
+p-value of test                       :    0.02
+
+Anderson-Darling statistic = A2       :    2.14
+p-value of test                       :    0.08
+
+Tests on the sum of all N observations
+Standardized normal statistic         :    1.50
+p-value of test                       :    0.07
+
+Sample variance                       :    0.12
+p-value of test                       :    0.97
+
+-----------------------------------------------
+CPU time used                    :  00:00:25.52
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+sstring_Run test:
+-----------------------------------------------
+   N =  1,  n = 858993459,  r =  0,   s =   32
+
+
+-----------------------------------------------
+Total number of 1 runs:  858993461
+
+Number of degrees of freedom          :   52
+Chi2 statistic for number of runs     :   63.23
+p-value of test                       :    0.14
+
+
+-----------------------------------------------
+Total number of bits:  3436011776
+
+Normal statistic for number of bits   :    0.46
+p-value of test                       :    0.32
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:36.91
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 4194304,  r =  0,    s = 32,    L = 32,    k = 32
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    4
+Chi-square statistic                  :    6.36
+p-value of test                       :    0.17
+
+-----------------------------------------------
+CPU time used                    :  00:00:40.33
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 41943,  r =  0,    s = 32,    L = 320,    k = 320
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    3
+Chi-square statistic                  :    1.74
+p-value of test                       :    0.63
+
+-----------------------------------------------
+CPU time used                    :  00:00:41.34
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 4096,  r =  0,    s = 32,    L = 1024,    k = 1024
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    3
+Chi-square statistic                  :    2.79
+p-value of test                       :    0.43
+
+-----------------------------------------------
+CPU time used                    :  00:00:49.12
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 33554432,  r =  0,   s = 32,   L0 =  128,   L1 =  128
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   56
+ChiSquare statistic                   :   66.57
+p-value of test                       :    0.16
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   56
+ChiSquare statistic                   :   46.47
+p-value of test                       :    0.81
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   64
+ChiSquare statistic                   :   53.98
+p-value of test                       :    0.81
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   45
+ChiSquare statistic                   :   43.19
+p-value of test                       :    0.55
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   28
+ChiSquare statistic                   :   18.25
+p-value of test                       :    0.92
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:44.25
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 4194304,  r =  0,   s = 32,   L0 = 1024,   L1 = 1024
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :  140
+ChiSquare statistic                   :  181.10
+p-value of test                       :    0.01
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :  141
+ChiSquare statistic                   :  138.41
+p-value of test                       :    0.55
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  512
+ChiSquare statistic                   :  499.63
+p-value of test                       :    0.64
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :  133
+ChiSquare statistic                   :  146.05
+p-value of test                       :    0.21
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   72
+ChiSquare statistic                   :   45.15
+p-value of test                       :    0.9945
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:41.05
+
+Generator state:
+
+
+
+
+***********************************************************
+HOST = Studio, Darwin
+
+DTLN_Bits
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 428810,  r =  0,   s = 32,   L0 = 10016,   L1 = 10016
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :  360
+ChiSquare statistic                   :  372.10
+p-value of test                       :    0.32
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :  361
+ChiSquare statistic                   :  390.19
+p-value of test                       :    0.14
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          : 5008
+ChiSquare statistic                   : 5055.51
+p-value of test                       :    0.32
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :  356
+ChiSquare statistic                   :  352.99
+p-value of test                       :    0.54
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :  190
+ChiSquare statistic                   :  178.95
+p-value of test                       :    0.71
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:39.49
+
+Generator state:
+
+
+
+
+
+========= Summary results of Rabbit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        DTLN_Bits
+ Number of bits:   4294967296
+ Number of statistics:  40
+ Total CPU time:   00:13:23.50
+
+ All tests were passed
+
+
+
